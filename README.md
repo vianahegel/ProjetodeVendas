@@ -1,2 +1,8 @@
 # ProjetodeVendas
-Praticando técnicas de ciência de dados com uma base de vendas do Kaggle.
+
+Com uma base do Kaggle sobre vendas, decidi praticar conhecimentos em ciência de dados.
+
+Pré-processamento
+Estatística
+Visualização de Dados
+Machine Learning
